@@ -13,12 +13,11 @@
 
 //配置域名,域名只修改此处。
 //如果wordpress没有安装在网站根目录请加上目录路径,例如："www.watch-life.net/blog"
-var DOMAIN = "www.watch-life.net";
-var WEBSITENAME="守望轩"; //网站名称
+var DOMAIN = "www.gisfun.xyz";
+var WEBSITENAME="GIS探索发现"; //网站名称
 var PAGECOUNT='10'; //每页文章数目
 export default {
   getDomain: DOMAIN,
   getWebsiteName: WEBSITENAME,  
   getPageCount: PAGECOUNT
- 
 }
